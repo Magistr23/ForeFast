@@ -79,21 +79,15 @@
                <img class="img-responsive img-thumbnail" src="https://sun9-28.userapi.com/impg/LzVBsLzpUYWvOCIRG7nnteFh5weXGq9xibvTdA/bkSvM3noghU.jpg?size=1920x1080&quality=96&sign=f80b42a269225b1d798379f80c01aeac&type=album">
              </div>
               <hr>
-            <h1>Что должен знать Модер?</h1>
-            <div class="alert alert-warning" role="alert"><p> Если вы были повышены до должности Модератора — значит вы хорошо себя проявили в роли Хелпера.</p>
-
-<p>Обязанности остаются те же, но на этот раз вы должны будете присматривать за Хелперами, делиться с ними опытом и помогать им.</p></div>
-<button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-sm">Так же выдадут новую команду</button>
-<div class="modal fade bs-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
-  <div class="modal-dialog modal-sm" role="document">
-    <div class="modal-content">
-      <ul style = "list-style-type:circle">
-<li style="margin-top: 10px;">/socialspy - слежка за личными сообщениями. </li>
-</ul>
-    </div>
-  </div>
-</div>
-				
+            <h1>Что должен знать Модератор?</h1>
+            <div class="alert alert-warning" role="alert"><ol>Обязанности Модератора не легки. <br>А именно в его задачах:
+            	<li>Время от времени должен пиарить клан любыми способами.</li>
+            	<li>Обязан знать и соблюдать правила.</li>
+            	<li>Должен следить за игроками в беседе и дискорде, быть активным.</li>
+            	<li>Должен быть адекватным, помогать новичкам.</li>
+            	<li>Модератор должен быть активным в постах, и помогать с идеями для различных мероприятий.</li>
+            	<li>Должен предоставлять доказательство на любое предупреждение, Кик или Мут Основателю БД.</li>
+            </ol></div>
             </div>
           	</div>
       	</div>
