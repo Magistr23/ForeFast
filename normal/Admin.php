@@ -79,27 +79,13 @@
           <div class="col-sm-9">
           	
           <div class="img"><img class="img-responsive img-thumbnail" src="https://sun9-17.userapi.com/impg/9wyQ-cJeYtRykwRS7KU6jYAkfjkPMiOXb8YXbA/eKqiGHXmmpQ.jpg?size=1920x840&quality=96&sign=6280945a66d3c1ba8aeec978c35341dc&type=album"></div>
-                  <h1>Что должен знать Ст.Модер?</h1>
+                  <h1>Чем занимается Админ?</h1>
                   <hr>
                   <div class="margin-8"></div>
-                  <div class="alert alert-warning" role="alert"> Это начало вашей новой жизни в Старшем составе Стафф'а.</p>
-           <p>Вы получаете несколько преимуществ, прав и обязанностей, помогающих в работе вам и другим. К примеру - право распределять младший состав по серверам, то, чего хотелось бы многим. Не так-ли?)</p>
-            <p>Так же вы должны помнить и про правила сервера, которые были написаны на странице <a href="http://helperstaff.ru">"Главная"</a></div>
-            <a class="btn btn-primary" role="button" data-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
-  Обязанности Ст.Модератора:
-</a>
-
-<div class="collapse" id="collapseExample">
-  <div class="well">
-    <ul style = "list-style-type:circle">
-              <li> Распределение Младшего Staff’a.</li>
-              <li> Слежка за логами, по возможности - консолей. </li>
-              <li> Проверка /reports и /ans.</li>
-              <li> Работать за хелперов, если их нет.</li>
-              <li> Отвечать игрокам в группе ВКонтакте.</li></ul>
-  </div>
-</div>
+                  <div class="alert alert-warning" role="alert"> Это начало вашей новой жизни в ForeFast.</p>
+           Админ - это высокая и важная роль. Люди которые занимают данный пост приносят большой вклад в развитие клана. Каждый человек выполняет свое дело в определённой сфере, помогая Основателю Клана.</div>
 <!--<p><a href="https://helperstaff.ru#curator">123</a></p>-->
+</div>
 <div style="margin-bottom: 20%;"></div>
           </div>
         </div>
