@@ -71,6 +71,21 @@
                             </figure>
                           </div>
                         </div>
+                        <div class="panel panel-info">
+                          <div class="panel-heading"><div class="sidebar-header text-center ellieaa">Константин Степанов</div></div>
+                          <div class="panel-body">
+                           <figure style="display: block; text-align: center;">
+                            <figcaption><span class="ellieaaHelp">Builder</span><br><span style="font-family: cursive;">
+                              <p><img style="width: 150px; border-radius: 10px; border: 3px solid #808080;" class="hidden-sm" src="https://sun9-74.userapi.com/impg/fI1kp-lFg0tLWXweI_F6My0-nT4bi9LwU7TMgQ/B3nZuLuaass.jpg?size=948x948&quality=95&sign=0eb164caee1a85cbe204026f7f32c034&type=album"></p><span class="ellieaa2">OilOld</span></span><br>
+          
+                              <!--<blockquote><span style="font-family: cursive;">123</span></blockquote>-->
+             
+                            <a href="https://vk.com/pringlesonelove" class="button9 btn btn-default" aria-label="Left Align">
+                              ВК
+                            </a></figcaption>
+                            </figure>
+                          </div>
+                        </div>
                         </div>
                         </div>
                         
