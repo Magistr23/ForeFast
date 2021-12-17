@@ -29,6 +29,7 @@
                            <figure style="display: block; text-align: center;">
                             <figcaption><span class="ellieaaHelp">Владелец</span><br><span style="font-family: cursive;">
                               <p><img style="width: 150px; border-radius: 10px; border: 3px solid #808080;" class="hidden-sm" src="https://sun9-37.userapi.com/impg/Z91qnSorQy9N-lY4xpVaMRI5R7qIFrP7tsRvmg/x2Dq5UqWwjk.jpg?size=1080x1080&quality=96&sign=1d0e5f52490adcef1452fd0d2a25de63&type=album"></p><span class="ellieaa2">_gingerbred_</span></span><br>
+                              <p>Занимается управлением всем Кланом ForeFast</p>
                               <!--<blockquote><span style="font-family: cursive;">123</span></blockquote> коммент-->
                             <a href="https://vk.com/mr.skyder" class="button9 btn btn-default" aria-label="Left Align">
                               ВК
