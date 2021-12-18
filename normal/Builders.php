@@ -11,7 +11,13 @@
 <html lang="ru">
 <?php include 'block/head.php';?>
 <body>
-
+<style>
+	body {
+	background-image: url(img/fon.jpg); 
+	background-attachment: fixed; 
+	background-repeat: repeat-x;
+ }
+</style>
 	<div class="container_fluid">
 		<div class="row">
 			<?php include 'block/nav.php'?>
@@ -20,6 +26,7 @@
     <div class="wrapper">
 
       <div class="container">
+      	<div class="Block" style="background-color:white; padding: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5);">
         <div class="block1">
         <div class="row">
         	<div class="col-sm-3">
@@ -111,6 +118,7 @@
           	</div>
       	</div>
   </div>
+</div>
 </div>
     <?php include ("block/footer.php");?>
 

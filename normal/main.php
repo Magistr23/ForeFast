@@ -11,9 +11,12 @@
 <html lang="ru">
  <?php include 'block/head.php';?>
 <body>
-
-
-  <style>
+<style>
+body {
+	background-image: url(img/fon.jpg); 
+	background-attachment: fixed; 
+	background-repeat: repeat-x;
+ }
     .nav>li>a {
     	padding: 10px 13px;
     }
@@ -29,10 +32,12 @@
     <div class="wrapper">
 
       <div class="container">
+      	<div class="Block" style="background-color:white; padding: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5);">
         <div class="block1">
         <div class="row">
          
              <div class="col-sm-12">
+             	
              	<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
@@ -169,6 +174,7 @@
             	<hr>
             	
             <br>
+             </div>
 <!--    <a href="normal/testin.php">123</a>-->
     <div class="margin-8 hidden-xs"></div>
       <div class="clear"></div>
@@ -177,6 +183,7 @@
     </div>
     </div>
     </div>
+
     
     <?php include ("block/footer.php");?>
 

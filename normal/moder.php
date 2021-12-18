@@ -11,7 +11,13 @@
 <html lang="ru">
 <?php include 'block/head.php';?>
 <body>
-
+<style>
+	body {
+	background-image: url(img/fon.jpg); 
+	background-attachment: fixed; 
+	background-repeat: repeat-x;
+ }
+</style>
 	<div class="container_fluid">
 		<div class="row">
 			<?php include 'block/nav.php'?>
@@ -20,6 +26,7 @@
     <div class="wrapper">
 
       <div class="container">
+      	<div class="Block" style="background-color:white; padding: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.5);">
         <div class="block1">
         	<div class="row">
         		<div class="col-sm-3">
@@ -29,7 +36,7 @@
                           <div class="panel-body">
                            <figure style="display: block; text-align: center;">
                             <figcaption><span class="ellieaaHelp">Moder</span><br><span style="font-family: cursive;">
-                              <p><img style="width: 150px; border-radius: 10px; border: 3px solid #808080;" class="hidden-sm" src="https://sun9-85.userapi.com/impg/UIoZwuvl8XTTKAWlNOZe5uf7FD_g30lQvs8_4g/h745LHLfZHE.jpg?size=750x741&quality=96&sign=f12698093a3b1d1899312bab62a3012f&type=album"></p><span class="ellieaa2">makuzaev_1</span></span><br>
+                              <p><img style="width: 150px; border-radius: 10px; border: 3px solid #808080;" class="hidden-sm" src="https://sun9-57.userapi.com/impg/kcubIFraqTEbACSb3K6T5SjQ8t78BaPAyOGRVA/gwhf10gNjEk.jpg?size=619x512&quality=95&sign=efc78c4ff91874d0beb510d58e57183a&type=album"></p><span class="ellieaa2">makuzaev_1</span></span><br>
           
                               <!--<blockquote><span style="font-family: cursive;">123</span></blockquote> коммент-->
              
@@ -92,6 +99,7 @@
           	</div>
       	</div>
   </div>
+</div>
 </div>
     <?php include ("block/footer.php");?>
 
